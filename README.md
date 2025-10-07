@@ -27,7 +27,7 @@ The provided example code implements a simplified version of the MVC pattern. Th
 
 This differs from how MVC was described in the lectures in several ways. Firstly, the Controller in this program carries out tasks that would otherwise be executed by the View, such as using JOptionPane to display output messages to the user. Traditional MVC dictates that the Controller should strictly handle user input while the View handles the output. Secondly, this Model component does not notify the View or Controller when state changes, unlike normal MVC. For changes in the Model to appear in the View, the Controller must manually refresh the interface. Lastly, the Scanner class is not incorporated into the main MVC structure, functioning more as a supplementary class, filling a niche purpose rather than being part of the MVC interaction.
 
-///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 4. Sequence Diagram of Cash Register MVC
    <img width="2394" height="1297" alt="image" src="https://github.com/user-attachments/assets/4bfee0fb-4b63-4009-b167-f5f4cdd3f1b3" />
