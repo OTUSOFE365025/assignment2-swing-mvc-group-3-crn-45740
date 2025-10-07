@@ -3,7 +3,7 @@ Example of an MVC design based on Swing. Answer questions 1 & 2 in this README f
 
 SOFTWARE DESIGN AND ARCHITECTURE ASSIGNMENT 2
 
-Group 4
+Group 3
 
 CRN: 45740
 
