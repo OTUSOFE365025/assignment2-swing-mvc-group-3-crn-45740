@@ -19,7 +19,7 @@ Java Swing Class Diagram
 
 <img width="1566" height="992" alt="image" src="https://github.com/user-attachments/assets/4ee181ea-2149-478b-b607-6b3db6ad5669" />
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 2. The MVC pattern aims to separate information, presentation, and user interaction with the system. It is divided into three categories: models, views, and controllers. When an object state in the model changes, that notification is sent to the view so that it can be updated, and to the controller so that it can modify the view if the logic permits it. 
 
@@ -27,7 +27,7 @@ Java Swing Class Diagram
 
    This differs from how MVC was described in the lectures in several ways. Firstly, the Controller in this program carries out tasks that would otherwise be executed by the View, such as using JOptionPane to display output messages to the user. Traditional MVC dictates that the Controller should strictly handle user input while the View handles the output. Secondly, this Model component does not notify the View or Controller when state changes, unlike normal MVC. For changes in the Model to appear in the View, the Controller must manually refresh the interface. Lastly, the Scanner class is not incorporated into the main MVC structure, functioning more as a supplementary class, filling a niche purpose rather than being part of the MVC interaction.
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 4. Sequence Diagram of Cash Register MVC
    <img width="2394" height="1297" alt="image" src="https://github.com/user-attachments/assets/4bfee0fb-4b63-4009-b167-f5f4cdd3f1b3" />
