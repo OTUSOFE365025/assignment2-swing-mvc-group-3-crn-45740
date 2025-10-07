@@ -29,7 +29,7 @@ Java Swing Class Diagram
 
 //////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-4. Sequence Diagram of Cash Register MVC
+4. Sequence Diagram for Cash Register MVC
    <img width="2394" height="1297" alt="image" src="https://github.com/user-attachments/assets/4bfee0fb-4b63-4009-b167-f5f4cdd3f1b3" />
 
 
