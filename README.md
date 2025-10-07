@@ -19,7 +19,7 @@ Java Swing Class Diagram
 
 <img width="1566" height="992" alt="image" src="https://github.com/user-attachments/assets/4ee181ea-2149-478b-b607-6b3db6ad5669" />
 
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 2. The MVC pattern aims to separate information, presentation, and user interaction with the system. It is divided into three categories: models, views, and controllers. When an object state in the model changes, that notification is sent to the view so that it can be updated, and to the controller so that it can modify the view if the logic permits it. 
 
