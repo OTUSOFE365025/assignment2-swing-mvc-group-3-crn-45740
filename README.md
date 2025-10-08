@@ -17,7 +17,7 @@ Contribution Matrix:
 
 Jayden Mallari:
 - Question 2
-- Scanner Modification of Question 3 (ScannerForApp.java)
+- Scanner Modification in Question 3 (ScannerForApp.java)
 - Sequence diagram in question 4
 
 Rabab Raza:
