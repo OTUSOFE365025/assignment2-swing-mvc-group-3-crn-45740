@@ -1,17 +1,13 @@
 
 public class MySwingMVCApp {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		  // Assemble all the pieces of the MVC
-		  Model m = new Model("Sylvain", "Saurel");
-		  View v = new View("MVC with SSaurel");
-		  Controller c = new Controller(m, v);
-		  
-		  // create scanner
-		  Scanner scanner = new Scanner();
-		  
-		  c.initController();
+	public MySwingMVCApp() {
 	}
 
+	public static void main(String[] args) {
+		CashRegister register = new CashRegister("prodInfo.txt");
+		Display display = new Display();
+		ScannerForApp scanner = new ScannerForApp();
+		Controller controller = new Controller(register, display, scanner);
+		controller.init();
+	}
 }
