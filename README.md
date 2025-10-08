@@ -11,6 +11,20 @@ Jayden Mallari (100927861)
 
 Rabab Raza (100932792)
 
+Contribution Matrix:
+
+Jayden Mallari:
+- Question 2
+- Scanner Modification of Question 3 (ScannerForApp)
+- Sequence diagram in question 4
+
+Rabab Raza:
+- Question 1, Java Swing Class Diagram
+- Question 3 Cash Register code following MVC pattern
+-    CashRegister,
+-    Display,
+-    Control classes
+
 
 
 1. The Swing Framework is a component of the Java standard library utilized to implement Graphical User Interfaces (GUIs) for desktop applications. It provides an assortment of lightweight components such as buttons, labels, text fields, tables, and panels that can be styled and positioned as per different layouts and appearances. Swing follows the Model-View-Controller (MVC) pattern to separate data (Model), user interface (View), and user action logic (Controller) in order to make applications easier to manage and extend.
