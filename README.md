@@ -15,15 +15,15 @@ Contribution Matrix:
 
 Jayden Mallari:
 - Question 2
-- Scanner Modification of Question 3 (ScannerForApp)
+- Scanner Modification of Question 3 (ScannerForApp.java)
 - Sequence diagram in question 4
 
 Rabab Raza:
 - Question 1, Java Swing Class Diagram
 - Question 3 Cash Register code following MVC pattern
--    CashRegister,
--    Display,
--    Control classes
+-    CashRegister.java (model)
+-    Display.java (view)
+-    Control.java (modified original class)
 
 
 
